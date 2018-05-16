@@ -1,0 +1,2 @@
+# Relevance_Vector_Machine_for_NPB
+RVMを使って、プロ野球のチーム得点を予測するモデルを作成しました。
